@@ -1,4 +1,4 @@
-# Execution commands for GenAI Programs
+# GenAI Programs
 
 ## Commands to run chatbot.py in command line
 ### Install Python environment
