@@ -1,6 +1,6 @@
 # Execution commands for GenAI Programs
 
-## Commands to run ChatBot in command line
+## Commands to run chatbot.py in command line
 ### Install Python environment
 ```
 pip3 install virtualenv 
@@ -13,7 +13,7 @@ source GenAIPrograms/bin/activate
 python3 -m pip install transformers==4.30.2 torch
 ```
 
-### Execute ChatBot in command line
+### Execute chatbot.py in command line
 ```
 python3 chatbot.py
 ```
